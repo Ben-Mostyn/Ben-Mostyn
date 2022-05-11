@@ -12,4 +12,4 @@ Currently Working on:
 
 ## Languages and Softwares!
 
-<img src="Logo.png">
+<img src="Logo1.png">
