@@ -10,8 +10,7 @@ Currently Working on:
 - Three.js Projects
 - And much more
 
-##Table
+## Table
 
-1. Huyyya
-2. yuhhhh
-3. vuhhhhh
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
