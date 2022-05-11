@@ -6,6 +6,7 @@ Working on anything and everything, developing my skills and learning new things
 
 Currently Working on:
 
-Markup : \* Bullet list
-hello
-yeah
+Markup : _ Bullet list
+_ Nested bullet
+_ Sub-nested bullet etc
+_ Bullet list item 2
