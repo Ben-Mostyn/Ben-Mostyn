@@ -10,6 +10,6 @@ Currently Working on:
 - Three.js Projects
 - And much more
 
-## Languages and Softwares
+## Languages and Softwares!
 
 <img src="Logo.png">
