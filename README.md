@@ -9,3 +9,7 @@ Currently Working on:
 - React Projects
 - Three.js Projects
 - And much more
+
+## Languages and Softwares
+
+<img src="Logo.png">
