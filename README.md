@@ -12,5 +12,5 @@ Currently Working on:
 
 ## Table
 
-1. [General Info](www.google.com)
+1. [General Info]('www.google.com')
 2. [Technologies](#technologies)
