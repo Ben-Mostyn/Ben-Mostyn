@@ -9,8 +9,3 @@ Currently Working on:
 - React Projects
 - Three.js Projects
 - And much more
-
-## Table
-
-1. [General Info]('www.google.com')
-2. [Technologies](#technologies)
