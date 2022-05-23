@@ -1,4 +1,6 @@
-<img src="fa1ae5cea8a9161e0fa048784c4769d1.gif">
+<div align="center">
+<img width="200" src="fa1ae5cea8a9161e0fa048784c4769d1.gif">
+</div>  
 # Hi I'm Ben-Mostyn
 
 Passionate Developer who is new in the industry
