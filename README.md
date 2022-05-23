@@ -1,5 +1,5 @@
-<div>
- <img width="700px" src="giffy.gif" >
+<div align="center">
+ <img width="700" src="giffy.gif" >
 </div>
 # Hi I'm Ben-Mostyn
 
