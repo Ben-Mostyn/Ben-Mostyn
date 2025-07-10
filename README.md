@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ben-mostyn&label=Profile%20views&color=0e75b6&style=flat" alt="ben-mostyn" /> </p>
 
-- 🌱 I’m currently learning **React.js, Three.js**
+- 🌱 I’m currently learning ** Three.js, -Terraform**
 
 - 👯 I’m looking to collaborate on **Website Development and/or 3D Projects**
 
